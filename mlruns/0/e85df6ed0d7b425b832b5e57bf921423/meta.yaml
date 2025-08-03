@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/e85df6ed0d7b425b832b5e57bf921423/artifacts
+end_time: 1754229554278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e85df6ed0d7b425b832b5e57bf921423
+run_name: puzzled-sow-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754229548449
+status: 3
+tags: []
+user_id: avish

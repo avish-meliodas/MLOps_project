@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/models/m-7def0a099ff74eb7bff13d3902027a90/artifacts
+creation_timestamp: 1754228525581
+experiment_id: '0'
+last_updated_timestamp: 1754228530377
+model_id: m-7def0a099ff74eb7bff13d3902027a90
+model_type: null
+name: model
+source_run_id: 24cb33e1636742c5bbf1d0c0e20144b9
+status: 2
+status_message: null

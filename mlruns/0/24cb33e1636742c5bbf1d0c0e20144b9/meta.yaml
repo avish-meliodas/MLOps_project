@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/24cb33e1636742c5bbf1d0c0e20144b9/artifacts
+end_time: 1754228530386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24cb33e1636742c5bbf1d0c0e20144b9
+run_name: agreeable-smelt-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754228525395
+status: 3
+tags: []
+user_id: avish

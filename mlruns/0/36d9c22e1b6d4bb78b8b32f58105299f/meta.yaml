@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/36d9c22e1b6d4bb78b8b32f58105299f/artifacts
+end_time: 1754229308339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36d9c22e1b6d4bb78b8b32f58105299f
+run_name: suave-rook-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754229302485
+status: 3
+tags: []
+user_id: avish

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/02c604533b55487786bee1a9f569e7b5/artifacts
+end_time: 1754228276603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02c604533b55487786bee1a9f569e7b5
+run_name: orderly-rat-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754228271611
+status: 3
+tags: []
+user_id: avish
