@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/7620cfd902354835a04104bd0fa1afbf/artifacts
+end_time: 1754238822070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7620cfd902354835a04104bd0fa1afbf
+run_name: mercurial-gnu-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754238818587
+status: 3
+tags: []
+user_id: avish

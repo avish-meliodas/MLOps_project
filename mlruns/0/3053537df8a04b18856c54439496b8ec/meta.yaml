@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avish/all_work/Projects/MLOps_project/mlruns/0/3053537df8a04b18856c54439496b8ec/artifacts
+end_time: 1754236754835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3053537df8a04b18856c54439496b8ec
+run_name: bald-chimp-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754236751148
+status: 3
+tags: []
+user_id: avish

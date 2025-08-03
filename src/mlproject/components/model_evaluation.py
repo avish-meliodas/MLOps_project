@@ -9,6 +9,7 @@ import joblib
 from mlproject.utils.common import save_json
 from mlproject.config.configuration import ModelEvaluationConfig
 from pathlib import Path
+from mlproject import logger
 
 
 class ModelEvaluation:
@@ -53,6 +54,13 @@ class ModelEvaluation:
 
 
             # Model registry does not work with file store
+            logger.info(tracking_url_type_store)
+            print("tracking_url_type_store ----- " ,tracking_url_type_store)
+
+            print("Tracking URI:", mlflow.get_tracking_uri())
+            print("Registry URI:", mlflow.get_registry_uri())
+            print("Artifact URI:", mlflow.get_artifact_uri())
+
             if tracking_url_type_store != "file":
 
                 # Register the model
