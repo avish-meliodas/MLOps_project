@@ -156,8 +156,10 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
     ECR_REPOSITORY_NAME = simple-app
 
-
-
+# 8. DELETE IF DEPLOYMENT DONE (otherwise AWS will charge you)
+	1. EC2 -> running instances -> instance state -> terminate
+	2. ECR -> select repo name -> delete
+	3. IAM -> users -> delete the corresponding user
 
 ## About MLflow 
 MLflow
