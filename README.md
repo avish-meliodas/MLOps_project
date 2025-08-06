@@ -156,6 +156,8 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
     ECR_REPOSITORY_NAME = demo>>  mlops_project
 
+	webpage_available at : http://13.210.36.130:8080/
+
 # 8. DELETE IF DEPLOYMENT DONE (otherwise AWS will charge you)
 	1. EC2 -> running instances -> instance state -> terminate
 	2. ECR -> select repo name -> delete
